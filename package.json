@@ -23,6 +23,7 @@
   "homepage": "https://github.com/gXLg/chonker-v2#readme",
   "dependencies": {
     "gxlg-asyncdb": "^1.5.5",
+    "gxlg-utils": "^1.2.0",
     "nullcord": "^3.2.3"
   }
 }
