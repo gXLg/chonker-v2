@@ -1,0 +1,28 @@
+{
+  "name": "chonker-v2",
+  "version": "1.0.0",
+  "description": "Epic comeback of the legendary chonker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gXLg/chonker-v2.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "nullcord"
+  ],
+  "author": "gXLg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gXLg/chonker-v2/issues"
+  },
+  "homepage": "https://github.com/gXLg/chonker-v2#readme",
+  "dependencies": {
+    "gxlg-asyncdb": "^1.5.5",
+    "nullcord": "^3.2.3"
+  }
+}
